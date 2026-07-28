@@ -289,7 +289,7 @@ in January 2020..
 The _bsc_ compiler supports two equivalent and interchangeable
 source-code syntaxes:
 
-BH:: Bluespec Haskell, also known as Bluesepec Classic
+BH:: Bluespec Haskell, also known as Bluespec Classic
 
 BSV:: Bluespec SystemVerilog
 
