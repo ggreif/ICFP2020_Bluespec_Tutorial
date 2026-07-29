@@ -1365,8 +1365,8 @@ semantics.
   waves produced by Verilog simulation to BH/BSV source code.
 
 * This is _quite different_ from the situation with so-called HLS
-  (High Level Synthesis).  In HLS, the source code is C/C++ (with the
-  execution semantics of C/C++), and the HLS tool produces a
+  (High Level Synthesis).  In HLS, the source code is C/{cpp} (with the
+  execution semantics of C/{cpp}), and the HLS tool produces a
   microarchitecture for you (modules, logic, connections).  The
   designer can provide directives that influence the
   microarchitecture, but does not specify the microarchitecture
@@ -3179,7 +3179,7 @@ The quality of a hardware system is measured in several ways.
 == Endnote: Comparison with other approaches to hardware-design
 
 In Section <<HDLS_vs_HLS>> we have already compared HDLs against HLS (see <<GajskiHLS>>)
-(synthesis of hardware from and algorithm specified in C/C++).
+(synthesis of hardware from and algorithm specified in C/{cpp}).
 
 Both Chisel (see <<Chisel>>) and BSV significantly raise the level of
 abstraction and expressive power of HDLs compared to Verilog (see
