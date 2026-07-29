@@ -1216,7 +1216,7 @@ IMPORTANT: Our choice of yellow round-cornered rectangles for
   depicting rules and methods is deliberate.  Both have Bool
   _conditions_ and _bodies_.  Conceptually, the overall condition
   determining whether a rule fires is both its own condition as well
-  as the condtions on the emthods it invokes.  The overall body of a
+  as the conditions on the methods it invokes.  The overall body of a
   rule is both its own body as well as the bodies of the methods it
   invokes.  You can think of the source code as a way to _compose_ a
   logical composite rule from components: a syntactic rule in a module
