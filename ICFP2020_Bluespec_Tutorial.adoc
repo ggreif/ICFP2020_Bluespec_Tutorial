@@ -928,7 +928,7 @@ argument to `$display` and `$write`.  For example,
 +
 
 will print "`Current state 0, next state THINKING`".  I.e., without
-fshow, it just prints the value of the bit reprenstation, but with
+fshow, it just prints the value of the bit representation, but with
 fshow it prints the symbolic value.
 
 NOTE: Instead of `$display` which actually prints things, you can use
