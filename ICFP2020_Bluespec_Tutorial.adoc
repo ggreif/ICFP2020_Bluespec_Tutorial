@@ -1582,7 +1582,7 @@ and initialize `rg_swapped` to False.
 '''
 ==== `mkBubblesort`: sorting
 
-The sorting behavior is expressed by a series of 5 rules:
+The sorting behavior is expressed by a series of 4 rules:
 
 [source]
 ----
